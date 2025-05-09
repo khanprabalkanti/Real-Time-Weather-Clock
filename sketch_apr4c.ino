@@ -10,9 +10,9 @@
 U8G2_SH1106_128X64_NONAME_1_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
 
 // WiFi & API config
-const char* ssid     = "TechanicZ";
-const char* password = "pppppppK";
-const char* apiKey   = "4ef7980b676e7c99efd3696d076b5a67";
+const char* ssid     = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
+const char* apiKey   = "YOUR API";
 const char* city     = "Kolkata";
 const char* country  = "IN";
 
